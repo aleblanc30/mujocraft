@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Simulation / training artifacts
+*.npy
+*.npz
+ppo.zip
+*.zip
+
+# Gradle / Java plugin
+.gradle/
+plugin/build/
+plugin/.gradle/
+*.class
+*.jar
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

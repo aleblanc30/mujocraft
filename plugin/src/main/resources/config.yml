@@ -1,0 +1,7 @@
+# Loopback only: the bridge has no authentication.
+bind: 127.0.0.1
+port: 25566
+
+# Where the spider spawns. Omit `spawn` to use the world's spawn point on the surface.
+# world: world
+# spawn: [0.5, 70.0, 0.5]

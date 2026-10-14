@@ -1,0 +1,5 @@
+name: Mujocraft
+version: 0.1.0
+main: dev.mujocraft.MujocraftPlugin
+api-version: "26.3"
+description: Streams block geometry to MuJoCo and renders the simulated spider.
